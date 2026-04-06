@@ -5,6 +5,8 @@
 This project analyzes the relationship between digital behaviour and mental wellbeing using an interactive Excel dashboard, uncovering patterns in screen time, attention span, stress, and content consumption.
 
 ---
+## 📊 Dashboard Preview
+
 
 ## 🎯 Problem Statement
 
