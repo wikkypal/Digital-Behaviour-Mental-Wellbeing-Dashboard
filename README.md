@@ -7,7 +7,7 @@ This project analyzes the relationship between digital behaviour and mental well
 ---
 ## 📊 Dashboard Preview
 
-Digital Behaviour & Mental Wellbeing.png 
+![Dashboard](dashboard.png)
 
 ## 🎯 Problem Statement
 
