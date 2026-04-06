@@ -7,7 +7,7 @@ This project analyzes the relationship between digital behaviour and mental well
 ---
 ## 📊 Dashboard Preview
 
-https://github.com/wikkypal/Digital-Behaviour-Mental-Wellbeing-Dashboard/blob/e652d66d7dde37af9fcf2c66693068cb109430e5/Digital%20Behaviour%20%26%20Mental%20Wellbeing.png
+Digital Behaviour & Mental Wellbeing.png
 
 ## 🎯 Problem Statement
 
