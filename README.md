@@ -90,7 +90,7 @@ The analysis was conducted using exploratory data analysis (EDA) techniques:
  ┣ 📊 data/
  ┃ ┗ dataset.xlsx
  ┣ 📈 dashboard/
- ┃ ┗ dashboard.xlsx
+ ┃ ┗ digital_behaviour_dashboard.xlsx
  ┣ 📷 images/
  ┃ ┗ dashboard.png
  ┣ 📄 README.md
@@ -109,6 +109,6 @@ The analysis was conducted using exploratory data analysis (EDA) techniques:
 
 ## 📌 Conclusion
 
-This project demonstrates how digital habits translate into measurable mental health outcomes and highlights the importance of understanding behavioural patterns to improve wellbeing.
+This project highlights how digital habits translate into measurable mental health outcomes and provides insights that can support healthier behavioural patterns.
 
 ---
